@@ -18,10 +18,20 @@ July 2 & 3
 
 [Website](http://www.react-europe.org/) - [Schedule](http://www.react-europe.org/#schedule)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PAA9O4E1IM4" frameborder="0" allowfullscreen></iframe>
+
 ### Reactive 2015
 November 2-4
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BfzjuhX4wJ0" frameborder="0" allowfullscreen></iframe>
+
 [Website](https://reactive2015.com/) - [Schedule](https://reactive2015.com/schedule_speakers.html#schedule)
+
+### React.js Conf 2016
+Februrary 22 & 23
+
+[Website](http://conf.reactjs.com/) - [Schedule](http://conf.reactjs.com/schedule.html)
+
 
 ### ReactEurope 2016
 June 2 & 3
